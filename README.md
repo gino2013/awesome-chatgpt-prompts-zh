@@ -23,12 +23,6 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 
 同时您也可以从这个文件中获取创作灵感来创建您自己的提示。
 
-### **ChatGPT成品独享帐号：[购买](https://fk.fq.mk/?code=YT0xJmI9Mg%3D%3D)**
-
-**[在 GitHub 上查看](https://github.com/PlexPt/awesome-chatgpt-prompts-zh)**
-
-**[在 Gitee 上查看](https://gitee.com/PlexPt/awesome-chatgpt-prompts-zh)**
-
 ------
 
 ## 图片实例
@@ -40,10 +34,6 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 [问题表](./question/README.md)
 
 共约67万个问题，欢迎拿去炼丹。
-
-点击👇🏻传送链接，购买云服务器炼丹：
-- [**阿里云服务器**](https://reurl.cc/NqQXyx)
-- [**【腾讯云】云服务器等爆品抢先购，低至4.2元/月**](https://url.cn/B7m0OYnG)
 
 [讨论反馈](https://github.com/PlexPt/awesome-chatgpt-prompts-zh/issues/74)
 
@@ -100,19 +90,6 @@ ChatGPT是由[OpenAI](https://openai.com/)训练的一款大型语言模型，�
 |                  直接加群                  |               如果前面的无法使用，加我拉你入群               |                          国内中文体验公众号                          |
 |:--------------------------------------:| :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="./pic/qun.jpg" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/218671603-2f4015fe-51e6-4252-bdd3-51daca0e5d33.png" width="300"/> |  <img src="https://user-images.githubusercontent.com/15922823/218004565-bb632624-b376-4f01-8ce2-d7065107bf4a.png" width="300"/> |
-
-
-
-
-
-## 加入星球
-
-非常感激您对此项目的关注和支持。我一直在努力，提供最有价值和易于理解的指南。如果您觉得我的项目对您有所帮助，想进一步了解更进，可以加入我的知识星球。扫码了解详情：
-
-| 知识星球         | 微信赞赏      | 
-| ------------ | ------------ | 
-| <img src="https://user-images.githubusercontent.com/15922823/218308300-0791ed4a-4c27-4358-ae77-21f910249291.png" width="300"/> | <img src="https://user-images.githubusercontent.com/15922823/217595380-ed95381c-271d-4aba-98a1-3cfd8cf5ed73.png" width="300"/> |
-
 
 
 # 正经指南
